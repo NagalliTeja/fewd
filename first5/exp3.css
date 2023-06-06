@@ -1,0 +1,24 @@
+.main{
+    background-color: peachpuff;
+}
+.academics{
+    border: 3px solid black;
+}
+th{
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: skyblue;
+    color: white;
+}
+td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.project{
+    border: 2px solid brown;
+    border-collapse: collapse;
+}
+.contact{
+    border: 2px solid brown;
+    width: 30%;
+}
